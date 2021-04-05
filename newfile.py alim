@@ -1,0 +1,26 @@
+'Question one'
+name = 'Alim Mutiyat'
+dept="Science Education"
+print(name, dept)
+'Question 2'
+scare="boo!"
+print(scare)
+'Qustion 3'
+n1=5
+n2=7
+n3=(12)
+print(n1,n2,n3)
+'Question 4'
+clear=12/0.5
+print(clear)
+'Question 5'
+addition = 8.1+4
+print(addition)
+'Question 6'
+rate = 8%3
+print(rate)
+'Question 7'
+result1= 2*4
+result2 = 4+2
+result3 = result1*result2
+print(result3)
